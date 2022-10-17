@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yi.
+- 👋 Hi, I’m Yvette.
 - 👀 I’m interested in data analytics, visualization, machine learning...
 - 🌱 I’m currently learning Business Analytics at University of Southern California.
 - 📫 Reach me at yvegao1997@gmail.com.
